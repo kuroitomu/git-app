@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
+
+get 'tzinfo-data' , piatoforms: [mingw,
+
+
+gem 'pry-rails'
 gem 'devise'
 
 ruby '2.6.5'
